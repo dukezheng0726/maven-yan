@@ -1,0 +1,5 @@
+# Created at 2024-12-19T21:36:50.139
+Boot Manifest-JAR contains absolute paths in classpath 'D:\zy\Metro College\Course\[CCA06] AWS Cloud Applications Development\code\class3-build\maven-yan\yan-app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
